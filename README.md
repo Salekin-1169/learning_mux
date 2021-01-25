@@ -1,3 +1,5 @@
+You can read the better version of article [here](https://viblo.asia/p/golang-rest-api-and-routing-using-mux-GrLZDDPwZk0)
+
 # Routing with MUX
 Let's create a simple CRUD api for a blog site.
 
